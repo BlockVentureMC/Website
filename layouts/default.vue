@@ -7,7 +7,5 @@
 const options = [
   { text: 'Home', link: '/' },
   { text: 'Audio', link: '/audio' },
-  { text: 'Video', link: '/video' },
-  { text: 'About', link: '/about' },
 ]
 </script>

@@ -7,8 +7,7 @@
 <script setup lang="ts">
 const options = [
   { text: 'Home', link: '/' },
+  { text: 'Settings', link: '/audio/settings' },
   { text: 'Audio', link: '/audio' },
-  { text: 'Video', link: '/video' },
-  { text: 'About', link: '/about' },
 ]
 </script>
