@@ -9,7 +9,7 @@
       Audio Server
     </NuxtLink>
     <NuxtLink to="https://discord.gg/tAdf2saYup" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded inline-block ml-4">
-      <img src="/discord.svg" alt="Video" class="w-6 h-6 inline-block mr-2" />
+      <img src="/assets/discord.svg" alt="Video" class="w-6 h-6 inline-block mr-2" />
       Discord
     </NuxtLink>
   </div>
