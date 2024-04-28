@@ -1,10 +1,14 @@
 <template>
-  <div>
-    <header>
-      <h1 class="text-3xl font-bold underline">Audio Server</h1>
-    </header>
+  <LayoutContainer :options="options">
+    <h1>Test Audio</h1>
     <slot />
-  </div>
+  </LayoutContainer>
 </template>
 <script setup lang="ts">
+const options = [
+  { text: 'Home', link: '/' },
+  { text: 'Audio', link: '/audio' },
+  { text: 'Video', link: '/video' },
+  { text: 'About', link: '/about' },
+]
 </script>
