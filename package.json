@@ -15,7 +15,7 @@
     "nuxt": "^3.11.2",
     "opus-decoder": "^0.7.6",
     "vue": "^3.4.27",
-    "vue-router": "^4.3.0",
+    "vue-router": "^4.3.3",
     "ws": "^8.17.0"
   },
   "devDependencies": {
